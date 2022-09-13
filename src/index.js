@@ -11,7 +11,7 @@ import RootReducer from './Reducers'
 // export const serverBaseUrl="http://localhost:8080/"; 
 
 //server
-export const serverBaseUrl="https://afc9-223-233-77-201.in.ngrok.io/"; 
+export const serverBaseUrl="https://281d-103-105-154-178.in.ngrok.io/"; 
 export const serverApiUrl=serverBaseUrl+"api/v1/" 
 
 export const imageProvider=(url) => {
